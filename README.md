@@ -1,9 +1,13 @@
-# Crypto Pulse Agent
+># Crypto Pulse Agent
+
+<img width="769" height="711" alt="image" src="https://github.com/user-attachments/assets/989be588-be77-41fe-9c73-d465e4d50640" />
 
 > Автономный Telegram-бот для мониторинга новостного фона криптотиры и генерации экспресс-аналитики.
-<img width="1381" height="432" alt="image" src="https://github.com/user-attachments/assets/7d522059-439d-4462-b71d-d5dd684a37fd" />
+
 
 Бот отслеживает RSS-ленты ведущих СМИ, подтягивает актуальные биржевые метрики с деривативного рынка Bybit (V5 API) и формирует структурированные обзоры с помощью Google Gemini API.
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/f7da2c0a-cfa3-4f52-80f0-48b97824dc9c" />
+<img width="1442" height="957" alt="image" src="https://github.com/user-attachments/assets/ce50161d-913d-4e4e-9d0c-3fce93892676" />
 
 ---
 
