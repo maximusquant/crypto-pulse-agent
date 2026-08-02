@@ -1,6 +1,7 @@
 # Crypto Pulse Agent
 
 > Автономный Telegram-бот для мониторинга новостного фона криптотиры и генерации экспресс-аналитики.
+<img width="1381" height="432" alt="image" src="https://github.com/user-attachments/assets/7d522059-439d-4462-b71d-d5dd684a37fd" />
 
 Бот отслеживает RSS-ленты ведущих СМИ, подтягивает актуальные биржевые метрики с деривативного рынка Bybit (V5 API) и формирует структурированные обзоры с помощью Google Gemini API.
 
@@ -18,6 +19,9 @@
 | **Публикация в Telegram** | Отправляет сформированный пост с клиповым заголовком, блоками разбора, прогнозом и ссылкой-источником для генерации превью |
 
 ---
+
+<img width="1578" height="897" alt="image" src="https://github.com/user-attachments/assets/86210a07-bb15-4b65-83c0-af711f51ac6b" />
+
 
 ## Стек
 
@@ -111,12 +115,9 @@ gemini-3.6-flash  →  gemini-3.5-flash-lite  →  gemini-2.5-flash
 
 ## Скриншоты
 
-> 📸 *Скриншоты работы бота будут добавлены позже.*
->
-> Примеры для загрузки:
 > - Пример сгенерированного поста в Telegram
-> - Лог работы пайплайна в консоли
-> - Структура проекта в проводнике / VS Code
+<img width="629" height="927" alt="image" src="https://github.com/user-attachments/assets/0aca23b5-4fd6-4d0a-9d55-f42410ce5f1d" />
+<img width="709" height="905" alt="image" src="https://github.com/user-attachments/assets/0a71aff4-e129-4023-9737-738dcb5a289e" />
 
 ---
 
