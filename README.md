@@ -1,6 +1,7 @@
 ># Crypto Pulse Agent
 
-<img width="769" height="711" alt="image" src="https://github.com/user-attachments/assets/989be588-be77-41fe-9c73-d465e4d50640" />
+<img width="437" height="430" alt="image" src="https://github.com/user-attachments/assets/52f60c52-ce58-4812-942e-8ed66c083e4a" />
+
 
 > Автономный Telegram-бот для мониторинга новостного фона криптотиры и генерации экспресс-аналитики.
 
