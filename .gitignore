@@ -1,0 +1,24 @@
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+
+# Конфигурация, секреты и БД
+.env
+published_history.json
+
+# Кэш Python и Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Логи, временные данные и директории
+*.log
+data/
+
+# IDE и системные файлы
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
